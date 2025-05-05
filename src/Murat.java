@@ -3,5 +3,7 @@ public class Murat {
         System.out.println("ne yaparsan yap AŞK ile yap");
         System.out.println("Projede kendi branchimde çalışıyorum");
         System.out.println("Projede 2.gün");
+        System.out.println("Projede 3.gün");
+
     }
 }
